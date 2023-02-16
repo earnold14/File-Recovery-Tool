@@ -2,4 +2,4 @@
 File recovery tool for NTFS files
 
 Start program using ./main <device name> <file inode number>
-For example: ./main /dev/sdc 83
+<br>For example: ./main /dev/sdc 83
